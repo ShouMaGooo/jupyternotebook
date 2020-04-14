@@ -25,7 +25,7 @@ http://polaris.nipr.ac.jp/~cosmicrays/
 
 作成CSVファイル名：WeatherYokohama.csv
 Pythonファイル:univerceWeatherYokohama.ipynb ⇒ univerceWeatherYokohama.py
-※jupyter notebook の利用時の様子が分かるようにhtmlファイルでも保管。⇒ univerceWeatherYokohama.html
+jupyter notebook の利用時の様子をhtmlファイルでも保管。⇒ univerceWeatherYokohama.html
 
 『宇宙線量(ミューオン)』と『気温変化』について  相関係数は、  0.392717  と少し相関が見られるが、単体では難しそうだと分かるが、
 従来の観測要素だけでなく、それらと組み合わせることにより気象予報に役立てれるかもしれない。
