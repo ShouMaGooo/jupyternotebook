@@ -22,14 +22,14 @@ plt.ylabel('muon(counts/10min)')
 
 
 # In[7]:
+
 #機械学習ライブラリscikit-learn(sklearn)のなかから、LinearRegression、つまり線形回帰を呼び出す。
-#線形回帰型の変数『model1』を用意。   説明変数を'neutron(counts/10min)'、目的変数を'muon(counts/10min)'と定義
+#線形回帰型の変数『model1』を用意。   説明変数を'neutron(counts/10min)'、目的変数を'muon(counts/10min)'とした。
 #「X1」と「Y1」のそれぞれに定義を行い、『model1』に「X1」,「Y1」をセットして線形回帰を実行。
-#その後、した後、線形回帰を実行しています。
 from sklearn.linear_model import LinearRegression
+model1 = LinearRegression()
 X1 = allData[['neutron(counts/10min)']]
 Y1 = allData['muon(counts/10min)']
-model1 = LinearRegression()
 model1.fit(X1, Y1)
 
 
