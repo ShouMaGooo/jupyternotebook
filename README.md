@@ -8,7 +8,7 @@
 逆に、そして、吉野正敏さんの資料からも分かる通り、古墳-飛鳥時代、平安時代初期は、現在よりもむしろ高い気候となっている(PDFの3/16ページ)。
 
 『4～10世紀における気候変動と人間活動』   J-STAGE　　吉野正敏
-[https://www.jstage.jst.go.jp/article/jgeography/118/6/118_6_1221/_article/-char/ja/]
+https://www.jstage.jst.go.jp/article/jgeography/118/6/118_6_1221/_article/-char/ja/
 ※図 1 屋久杉の年輪の炭素同位体比から明らかになった歴史時代の気温変動（北川, 1995a, b）と温暖期・寒冷期の名称（安田, 2004）参照。
 ```
 
