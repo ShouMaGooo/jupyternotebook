@@ -26,7 +26,7 @@ http://polaris.nipr.ac.jp/~cosmicrays/
 
 ```
 作成CSVファイル名：WeatherYokohama.csv
-Pythonファイル：univerceWeatherYokohama.py
+Pythonファイル：univerceWeatherYokohama.ipynb ⇒ univerceWeatherYokohama.py
 jupyter notebook の利用時の様子をhtmlファイルでも保管： univerceWeatherYokohama.html
 ```
 
