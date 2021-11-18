@@ -5,5 +5,5 @@
 を使用して『多値分類』と『深層学習』の演習を行った。
 
 『multi-classify.ipynb』でsoftmax関数を利用した多値分類のテストを行い、
-『deeplearning- 1_and_2layers.ipynb』では、隠れ層が１層の時と２層の時で演習を行い、後半でsigmoid関数の代わりにReLu関数とReLu関数の微分に相当するstep関数を用いて
-損失関数の勾配消失問題の改善が見られ、学習効率が97％になった。
+『deeplearning- 1_and_2layers.ipynb』では、隠れ層が１層の時と２層の時で演習を行い、後半でsigmoid関数の代わりにReLu関数とReLu関数の微分に相当するstep関数を用いて演習を行った。
+その時に、勾配消失問題の改善が見られ、学習効率が97％になった。
